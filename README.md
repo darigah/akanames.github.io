@@ -9,7 +9,7 @@
 This project is a web page that calculates the day of the week they were born and then depending on their gender outputs their Akan Name. 
 
 ## Screenshot
-<img src="https://postimg.cc/WhnF8NqX" width="800px" height="400px">
+<img src="https://user-images.githubusercontent.com/56113272/83798662-3d868300-a6ad-11ea-9c1b-e135f728c082.png" width="800px" height="400px">
 
 ## Live Page 
 https://darigah.github.io/akanames.github.io/
@@ -20,7 +20,7 @@ https://darigah.github.io/akanames.github.io/
 
 * git clone ```https://github.com/darigah/akanames.github.io.git```
 
-* cd Akan-Names
+* cd akan
 
 * code . or atom . based on the text editor you have.
 
@@ -37,17 +37,17 @@ Enter century of birth eg 20 for 2020,
      Input Example 20
      Output example 20
 
-* Enter year of Birth eg 19 for 2019
-     Input Example 19
-     Output Example 19
+* Enter year of Birth eg 2020
+     Input Example 2020
+     Output Example 2020
 
-* Enter month of birth eg 1 for january 
-    Input example 1
-    Output example 1
+* Enter month of birth eg 17 for january 
+    Input example 17
+    Output example 17
 
-* Enter Date of the month you were born in eg 20
-    input example 20
-    output example 20
+* Enter Date of the month you were born in eg 04
+    input example 04
+    output example 04
 
 * Select gender 
     Input example male
@@ -62,10 +62,9 @@ True value is output. Output example: **You were born on Sunday and Your akan na
 True value is output. Output example: **You were born on Sunday and Your akan name is  Akosua!** &nbsp If your gender is female.  
 
 **Example**
-* century input -- 20
-* year input   -- 19
-* month input  -- 7
-* date input -- 14
+* year input   -- 2020
+* month input  -- 04
+* date input -- 17
 * gender -- male selected,
 **Expected output is *You were born on Sunday and Your akan name is Kwasi!*** 
 
