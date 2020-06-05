@@ -6,7 +6,7 @@
 
 ## Description
 
-This project is a web page that calculates the day of the week they were born and then depending on their gender outputs their Akan Name. 
+This project is a web page that calculates the day of the week you were born and then depending on the gender outputs your Akan Name. 
 
 ## Screenshot
 <img src="https://user-images.githubusercontent.com/56113272/83798662-3d868300-a6ad-11ea-9c1b-e135f728c082.png" width="800px" height="400px">
@@ -29,14 +29,10 @@ https://darigah.github.io/akanames.github.io/
 * [HTML5](https://github.com/topics/html5)
 * [CSS](https://github.com/topics/css3)
 * [JavaScript](https://github.com/topics/javascript)
-* markdown
+* Markdown
 * [Bootstrap](https://github.com/topics/bootstrap)
 
 ## BDD
-Enter century of birth eg 20 for 2020,
-     Input Example 20
-     Output example 20
-
 * Enter year of Birth eg 2020
      Input Example 2020
      Output Example 2020
