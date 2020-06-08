@@ -332,7 +332,6 @@
     outline-offset: -2px;
     -webkit-appearance: none;
   }
-  
   [type="search"]::-webkit-search-decoration {
     -webkit-appearance: none;
   }
@@ -341,7 +340,6 @@
     font: inherit;
     -webkit-appearance: button;
   }
-  
   output {
     display: inline-block;
   }
