@@ -9,7 +9,7 @@
 This project is a web page that calculates the day of the week you were born and then depending on the gender outputs your Akan Name. 
 
 ## Screenshot
-<img src="https://user-images.githubusercontent.com/56113272/83798662-3d868300-a6ad-11ea-9c1b-e135f728c082.png" width="800px" height="400px">
+<img src="https://user-images.githubusercontent.com/56113272/84022882-bb89a900-a98f-11ea-978a-6216a0496f53.png" width="800px" height="400px">
 
 ## Live Page 
 https://darigah.github.io/akanames.github.io/
