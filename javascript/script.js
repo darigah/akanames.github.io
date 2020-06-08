@@ -25,7 +25,6 @@ function validate() {
   } else {
     return true;
   }
-
 }
 
 function calculateDayValue() {
@@ -84,7 +83,6 @@ function getGender() {
       }
       break
     default:
-
   }
 }
 
